@@ -15,4 +15,7 @@
  
 <center><h1 align="center">Introduction📌</h1></center>
 <h3>Alpha-Scripts</h3>
-This Project contains amazing and awesome scripts written in Python, JavaScript, Java, Nodejs and many more. The main aim of this repository is to provide utility scripts that could make everyday life easy. Get started with coding exhilarating scripts that can be useful to download PDFs from an Online Source or just to randomly accept bulk linkedin request.
+
+The Alpha Script Consists of great and awesome scripts written in programming language like Java, Python, C++, Nodejs, JavaScript and many more. The main perpouse pf this repository is to provide the effective scripts that could be usefull for us making our life easier.
+
+Check out my Github profile [devmalik7!](https://github.com/devmalik7)
