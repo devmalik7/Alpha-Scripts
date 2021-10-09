@@ -14,7 +14,6 @@
  
  
 <center><h1 align="center">Introduction📌</h1></center>
-<h3>Alpha-Scripts</h3>
 
 The Alpha Script Consists of great and awesome scripts written in programming language like Java, Python, C++, Node.js and many more. The main  purpose of this repository is to provide the effective scripts that could be useful for us making our life easier.
 
