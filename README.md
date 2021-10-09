@@ -10,7 +10,6 @@
   <a href = "https://www.javascript.com/"><img src="https://img.shields.io/badge/language-Javascript-blue?style=for-the-badge"></a>
   <a href = "https://www.java.com/en/"><img src="https://img.shields.io/badge/language-Java-blue?style=for-the-badge"></a>
   <a href = "https://nodejs.org/en/"><img src="https://img.shields.io/badge/language-Nodejs-blue?style=for-the-badge"></a>
-  <a href="https://github.com/Tejas1510/Hacking-Scripts/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/Tejas1510/Hacking-Scripts?style=for-the-badge"></a>
  </p>
  
  
